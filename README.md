@@ -20,4 +20,4 @@ Goal : Optimize the CCN network based on project 2.
 Add cs.py, fib.py, CS table and FIB table to CCN.  
 When the interest_queue or data_queue is full, update them according to FIFO, LRU, LFU, etc.  
 When the CS is full, update them according to FIFO, LRU, LFU, Cost-based or Time-based, etc.  
-Compare and find the best cache hit rate & average response time under different conditions.  
+Compare and find the best *cache hit rate* & *average response time* under different conditions.  
