@@ -1,5 +1,4 @@
-# Real-Time-System 
-#*Content-Centric Networking*
+# Content-Centric Networking
 
 ## Project 1 :
 
