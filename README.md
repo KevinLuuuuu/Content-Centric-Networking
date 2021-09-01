@@ -1,4 +1,4 @@
-# Content-Centric Networking
+# Content-Centric Networking (CCN)
 
 ## Project 1 :
 
